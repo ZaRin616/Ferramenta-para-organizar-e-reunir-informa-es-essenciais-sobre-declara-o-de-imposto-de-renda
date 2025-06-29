@@ -1,4 +1,4 @@
-# 🦁 Lion App – Sistema de Coleta de Dados Pessoais e Financeiros
+# 🦁 Lion App – Organizador de Declaração de imposto de Renda
 
 O *Lion App* é uma solução desenvolvida em Microsoft Excel com interface personalizada para coleta, organização e visualização de dados pessoais e financeiros. Ideal para profissionais de contabilidade, consultores financeiros ou qualquer pessoa que precise manter o controle rigoroso e elegante de informações sensíveis.
 
