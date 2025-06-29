@@ -6,7 +6,7 @@ O *Lion App* é uma solução desenvolvida em Microsoft Excel com interface pers
 
 ### 📋 1. Dados do Titular
 Formulário estruturado para coleta de informações pessoais do contribuinte, como:
-- Nome completo, CPF e Título de Eleitor
+- Nome completo, CPF
 - Endereço completo e contato
 - Dados bancários
 - Informações complementares para fins fiscais
